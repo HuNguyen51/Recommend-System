@@ -1,4 +1,4 @@
-# Bài toán hệ thống gợi ý dựa trên nhiều thuật toán học máy với dữ liệu của Nexflix được lấy từ kaggle
+# Bài toán hệ thống gợi ý dựa trên nhiều thuật toán học máy với dữ liệu của Nexflix được lấy từ kaggle (link data có trong file .ipynb)
 - Trong phạm vi bài này mình sử dụng data đầu vào có cấu trúc là Cust_ID, Movie_ID, Rating để cho vào model
 - Kế đến model sẽ nhận vào một ID người xem tùy ý và một ID phim tùy ý và cho ra ước lượng rating của người dùng đối với phim đó
 - Các thuật toán được áp dụng bao gồm SVD, SVDpp, NMF, SlopeOne, các thuật toán dựa trên KNN,...
