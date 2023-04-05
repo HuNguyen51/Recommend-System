@@ -7,7 +7,7 @@
 <img src="./validate/time.png" width="250">
 <img src="./validate/value.png" width="250">
 
-# MÔ TẢ DATA
+# MÔ TẢ DATA (Tất cả file sau đều nằm trong thư mục có tên là 'dataset', ví dụ: ./dataset/movie_titles.txt)
 ================================================================================
 combined_data.txt
 
