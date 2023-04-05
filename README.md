@@ -4,8 +4,8 @@
 - Các thuật toán được áp dụng bao gồm SVD, SVDpp, NMF, SlopeOne, các thuật toán dựa trên KNN,...
 - Hàm đánh giá các model sẽ là rmse và mae dựa trên hàm cross_validate
 
-<img src="./validate/time.png" width="250">
-<img src="./validate/value.png" width="250">
+<img src="./validate/time.png" width="500">
+<img src="./validate/value.png" width="500">
 
 # MÔ TẢ DATA (Tất cả file sau đều nằm trong thư mục có tên là 'dataset', ví dụ: ./dataset/movie_titles.txt)
 ================================================================================
